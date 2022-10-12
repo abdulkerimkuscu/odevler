@@ -5,3 +5,5 @@ Html kodlarına az biraz da css kodları ekledim. Belki çok güzel durmadı ama
 [patika](https://www.patika.dev/tr)
 ## Yeni Güncelleme
 Sevdiğim şarkıcılar listesi eklendi ayrıca filmler ve dizilerin fotoğrafları üzerine imdb linkleri eklendi. 
+## HTML tarif ödevi
+Html tarif ödevi yüklendi
